@@ -1,4 +1,4 @@
-package com.GradleWithGuice.type1;
+package com.GradleWithGuice.type3;
 
 //import com.GradleWithGuice.type1.CalculatorImpl;
 import com.google.inject.AbstractModule;

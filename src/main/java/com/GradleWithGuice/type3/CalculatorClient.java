@@ -1,4 +1,4 @@
-package com.GradleWithGuice.type1;
+package com.GradleWithGuice.type3;
 
 import com.google.inject.Guice;
 import com.google.inject.Injector;
